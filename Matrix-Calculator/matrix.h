@@ -1,0 +1,11 @@
+void matrix_caculator();
+void main_menu();
+void add_matrix();
+void change();
+void Help();
+void caculate();
+void look();
+void ByBy();
+char jisuan(char *castr);
+void show(char *adress);
+int find(char ch);
