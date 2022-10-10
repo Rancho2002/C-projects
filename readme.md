@@ -1,5 +1,6 @@
 # Are you interested in C and its projects
-### Though C is not used everywhere we have to learn it to gain the knowledge of programming fundamentals. So lets create some awesome C projects together.
+
+### As we all know we have to learn C to increase our programming fundamentals. So lets create some awesome using this awesome language and fill this repo with C projects together.
 
 ## How to contribute:
 
