@@ -9,7 +9,7 @@
 2) Bring the repo in your local system
 3) Create a new branch 
 4) Now create a directory(name of the directory should be the project name)
-5) Add your C code projects along with readme.md so that your project can be easily understandable
+5) Add your C code projects along with readme.md so that your project can be easily understandable(most recommended a demo video)
 6) Commit and create a pull request
 ```
 🥳🥳 and yaay!! You make your PR successfully.<br>
