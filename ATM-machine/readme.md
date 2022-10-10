@@ -4,7 +4,7 @@ This c-program is made to replicate the working of ATM machine.
 
 ### Functionalities
 1. Check Balance
-2. Withdrwa
+2. Withdraw
 3. Deposit
 4. Exit
 
