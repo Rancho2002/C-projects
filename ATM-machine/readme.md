@@ -9,3 +9,7 @@ This c-program is made to replicate the working of ATM machine.
 4. Exit
 
 ### Find the working video below:
+
+
+https://user-images.githubusercontent.com/83108477/194906517-3dd91ccc-db09-420c-aef1-6eb54f51a859.mov
+
