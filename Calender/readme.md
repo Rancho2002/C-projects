@@ -8,3 +8,4 @@ You can fork or download the repo, Once you have  the file Scientific calculator
 
 
 Feel free to ask doubts and you can contact me if any changes are there
+
