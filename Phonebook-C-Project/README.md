@@ -3,7 +3,7 @@ Phonebook is a simple project built in C where you can save the Infos of a perso
 
 ## Some Snaps
 ### 01. Password Page
-![Front](/screenshots/front.JPG)
+![Front](https://github.com/mrbhatt2348/C-projects/blob/master/Phonebook-C-Project/screenshots/front.jpg)
 
 ### 02. Main Page
 ![Main](/screenshots/main.JPG)
