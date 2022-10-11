@@ -6,4 +6,4 @@ Phonebook is a simple project built in C where you can save the Infos of a perso
 ![Front](https://github.com/mrbhatt2348/C-projects/blob/master/Phonebook-C-Project/screenshots/front.jpg)
 
 ### 02. Main Page
-![Main]([/screenshots/main.JPG](https://github.com/mrbhatt2348/C-projects/blob/master/Phonebook-C-Project/screenshots/main.jpg))
+![Main](https://github.com/mrbhatt2348/C-projects/blob/master/Phonebook-C-Project/screenshots/main.jpg)
