@@ -15,3 +15,8 @@ mystrstr searches for the pattern and then prints the line if the pattern is fou
 Various options implemented are shown in ./project -h. <br>
 -r option which traverses through directories. It is implemented in dir.c. dirent.h is used to do so.<br>
 mystrstrcase function ignores case to search pattern.<br>
+
+
+
+# Video Demo 
+####https://drive.google.com/file/d/1GiyVUBoS-PcvLHXmwlFm1mTVCkfcNzMS/view?usp=sharing
