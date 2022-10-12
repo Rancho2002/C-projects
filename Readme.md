@@ -1,15 +1,8 @@
-# Playback Speed Calculator
+# Are you interested in C and its projects
 
-This calculator will help to know the time it will take to watch the complete video at any speed.
+### As we all know we have to learn C to increase our programming fundamentals. So lets create some awesome using this awesome language and fill this repo with C projects together.
 
-# Video Demo
-
-## Demo
-
-<video width="1400" height="650" controls>
-  <source src="./Demo.mp4" type="video/mp4">
-</video>
-
-
-https://user-images.githubusercontent.com/88226411/195318740-fa5755c7-8e57-471c-844e-e1e3ad49fdc9.mp4
+## Want to Contribute😎:
+Refer to <a href="CONTRIBUTING.md">contributing.md</a><br><br>
+Don't forget to follow [@Rancho2002](https://www.github.com/rancho2002) ⭐😊
 
