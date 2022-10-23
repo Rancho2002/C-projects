@@ -7,6 +7,7 @@ You can use the following options:
 5. Show playlist
 6. Play previous track
 7. Play next track
-1. Exit music player
-
+8. Exit music player<br>
+# You can check the preview here <br>
+https://user-images.githubusercontent.com/49357847/197374401-b69f7fee-5c43-4669-ba7c-815071303327.mp4
 
