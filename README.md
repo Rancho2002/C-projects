@@ -4,6 +4,12 @@
 
 ## Want to Contribute😎:
 Refer to <a href="CONTRIBUTING.md">contributing.md</a><br><br>
+
+Thanks to all the people who have contributed:
+
+![Contributors](https://contributors-img.web.app/image?repo=Rancho2002/C-projects)
+
+
 Don't forget to follow [@Rancho2002](https://www.github.com/rancho2002) ⭐😊
 
 
