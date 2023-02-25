@@ -2,7 +2,7 @@
 
 ### As we all know we have to learn C to increase our programming fundamentals. So lets create some awesome using this awesome language and fill this repo with C projects together.
 
-## Want to Contribute😎:
+### Want to Contribute😎:
 Refer to <a href="CONTRIBUTING.md">contributing.md</a><br><br>
 
 Thanks to all the people who have contributed:
